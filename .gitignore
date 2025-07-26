@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs folder (runtime generated files)
+logs/
+
+# Stats folder (optional runtime data)
+stats/
+
+# Virtual environment folder (if you use one)
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file (if any)
+.env
